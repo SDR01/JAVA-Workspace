@@ -6,7 +6,7 @@ import java.util.*;
 
 public class kTripletSum {
 
-    private static boolean checkTripletSum(int n, int[] arr, int k) {
+    public static boolean checkTripletSum(int n, int[] arr, int k) {
        
         Arrays.sort(arr);
 
