@@ -47,4 +47,6 @@ public class kPairSum2 {
     }
 }
 
-// TC = O(nlogn);
+// TC = O(NlogN);
+// SC = O(1);
+// Note SC will be o(1) if quick sort is used, o(N) if merge sort is used.
